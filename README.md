@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-Year Student at CADT (Cambodia Academy of Digital Technology)<br>💻 Passionate Full-Stack Developer in Training<br>🔹 Currently Learning: JavaScript, React, HTML/CSS (Frontend) + Node.js (Backend)<br>🔹 Working On: Building interactive web apps & exploring full-stack development<br>🔹 Looking to Collaborate On: Open-source projects, hackathons, or small dev teams<br>🔹 Ask Me About: Frontend tips, CADT life, or best iced coffee spots while coding! <br>🔹 Fun Fact: I can debug CSS while half-asleep! 
+Second-Year Student at CADT (Cambodia Academy of Digital Technology)<br>💻 Passionate Full-Stack Developer in Training<br>🔹 Currently Learning: JavaScript, React, HTML/CSS (Frontend) + Node.js (Backend)<br>🔹 Working On: Building interactive web apps & exploring full-stack development<br>🔹 Looking to Collaborate On: Open-source projects, hackathons, or small dev teams<br>🔹 Ask Me About: Frontend tips, CADT life, or best iced coffee spots while coding! <br> 
 
 
 ## 🌐 Socials:
